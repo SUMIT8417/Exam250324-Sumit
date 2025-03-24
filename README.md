@@ -1,10 +1,11 @@
 # Exam250324-Sumit
+## Application Says it is running out of memory
 Excel cannot complete this task with available resources. Choose less data or close other applications.
 Out of Memory.
 There isn't enough memory to complete this action. Try using less data or closing other applications. To increase memory availability, consider:
 Using a 64-bit version of Microsoft Excel.
 Adding memory to your device.
-## Part A
+### Part A
 I'm working on a team with a few developers using Git on Bitbucket. We are all working on a dev branch, not pushing to master until a release.
 One of the developers committed incorrect code that overwrote my own by accident, and now I am trying to push the correct code back to the repository.
 I follow the instructions and pull, but then I receive a merge conflict.
@@ -13,7 +14,7 @@ So I replace the incorrect code with the backup I copied before committing, and 
 Here is the link for more inforamtion link below the line
 [Here is the link](https://stackoverflow.com/questions/24357108/error-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-ha)
 
-### Part B
+#### Part B
 How to run the Memory Diagnostics Tool
 When you get notified that your PC might have a memory problem.
 tap or click the notification to choose between two options for when to run the Memory Diagnostics Tool:
@@ -31,7 +32,7 @@ Once the Memory Diagnostics Tool has completed and Windows has restarted, tap or
 Here is the link for more Information below the line
 [URL](http://hs.windows.microsoft.com/hhweb/content/m-en-us/p-6.2/id-4edd5f80-def2-4d32-965c-116d49fb9872/)
 
-#### Part C
+##### Part C
 How to get help in Windows
 
 Here are a few different ways to find help for Windows
@@ -45,7 +46,7 @@ A user calls you and tell  they cannot find the files they worked on yesterday.
 When you get there you find them easily.
 
 
-##### 3 sites that are tutorials on Windows File Explorer
+###### 3 sites that are tutorials on Windows File Explorer
 
 You realize that the use need more training on how to use Windows File Explorer
 A user told me they wre not able to find the files we worked yesterday.
