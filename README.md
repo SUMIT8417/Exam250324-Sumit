@@ -44,6 +44,10 @@ Here is the link for more inforamtion below this line
 A user calls you and tell  they cannot find the files they worked on yesterday.
 When you get there you find them easily.
 
+
+Find 3 sites that are tutorials on 
+Windows File Explorer
+
 You realize that the use need more training on how to use Windows File Explorer
 A user told me they wre not able to find the files we worked yesterday.
 but when i went there i found these files easily and realize he needs more training about to use windows file explorer.
